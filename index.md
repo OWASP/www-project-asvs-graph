@@ -1,6 +1,6 @@
 ---
 layout: col-sidebar
-title: ASVS-Graph
+title: OWASP ASVS-Graph
 tags: asvs automation graph-theory know
 level: 2
 type: code
